@@ -67,18 +67,8 @@ h2:nth-child(3n){
     width: 70px;
     
 }
-#editar{
-    border-radius: 3px;
-    background-color:blue;
-    width: 70px;
-    
-}
-#excluir{
-    border-radius: 3px;
-    background-color:yellow;
-    width: 70px;
-    
-}
+
+
 #botao{
      background-color: rgb(57, 167, 57);
      border-radius: 3px;
@@ -150,7 +140,7 @@ input::placeholder{
                            "n m a"
                            "f f f";*/ 
     gap:10px; 
-    
+
 }
 
 
@@ -173,7 +163,7 @@ main{
     padding: 20px;
 }
 aside{
-    background-color: beige;
+
     /*grid-area: a;*/
     grid-column: 2/3;
     grid-row: 2/3;
